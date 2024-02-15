@@ -112,7 +112,7 @@ class _MoodSelectCardState extends State<MoodSelectCard> {
               ),
               color: Theme.of(context).primaryColor,
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(30),
+                borderRadius: BorderRadius.circular(15),
               ),
               padding: EdgeInsets.symmetric(vertical: 20, horizontal: 60),
             ),
